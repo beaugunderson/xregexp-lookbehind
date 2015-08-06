@@ -1,0 +1,24 @@
+{
+  "name": "xregexp-lookbehind",
+  "version": "1.0.0",
+  "description": "Lookbehind helpers for XRegExp",
+  "main": "xregexp-lookbehind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xregexp",
+    "lookbehind",
+    "regex"
+  ],
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaugunderson/xregexp-lookbehind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beaugunderson/xregexp-lookbehind/issues"
+  },
+  "homepage": "https://github.com/beaugunderson/xregexp-lookbehind#readme"
+}
